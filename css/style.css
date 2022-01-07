@@ -1,0 +1,22 @@
+h1 class{
+    text-align: center
+  }
+ul li{
+    display: inline-block;
+           margin: 20px
+}
+.tarix{
+    color: aqua;
+    
+}
+.qiymet{
+    color: red;
+    
+}
+.bigcentre{
+    text-align: center
+    
+
+}
+
+
